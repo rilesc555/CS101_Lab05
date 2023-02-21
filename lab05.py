@@ -1,9 +1,9 @@
 ########################################################################
 ##
 ## CS 101 Lab
-## Program #
-## Name
-## Email
+## Program # 05
+## Name: Riley Connors
+## Email: rpczdb@umsystem.edu
 ##
 ## PROBLEM : Describe the problem
 ##
