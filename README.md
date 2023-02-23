@@ -1,4 +1,4 @@
 # Lab_5
 
-## Name: 
-## UMKC Email: 
+## Name: Riley Connors
+## UMKC Email: rpczdb@umsystem.edu
